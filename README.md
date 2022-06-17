@@ -1,1 +1,1 @@
-# .github
+Staging playground for HydePHP repositories
